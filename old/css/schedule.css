@@ -1,0 +1,17 @@
+body {
+	text-align: center;
+	background-color: darkred;
+	color: red;
+	font-size: 24pt;
+}
+#head {
+	font-size: 36pt;
+	font-weight: bold;
+}
+a {
+  text-decoration: none;
+  color: red;
+  text-align: center;
+  font-size: 24pt;
+  font-family: Arial;
+}

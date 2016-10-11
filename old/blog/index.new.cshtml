@@ -1,0 +1,23 @@
+﻿@{
+    DatabaseContext db = new DatabaseContext();
+
+    var blogName = "";
+    
+    if (db.Blogs != null)
+    {
+        blogName = db.Blogs[0].Name;
+    }
+    else
+    {
+        blogName = "Not Availible";   
+    }
+}
+<!DOCTYPE html>
+<html>
+   <head>
+       <title>Allen Hazlett Blog</title>
+   </head>
+   <body>
+        Your blog name is @blogName .
+   </body>
+</html>

@@ -1,0 +1,20 @@
+body {
+	background-color: darkred;
+	color: red;
+	font-size: 24;
+}
+#head {
+	font-size: 36pt;
+	font-weight: bold;
+}
+#answer {
+	font-size: 36pt;
+	font-weight: bold;
+}
+a {
+  text-decoration: none;
+  color: red;
+  text-align: center;
+  font-size: 24pt;
+  font-family: Arial;
+}

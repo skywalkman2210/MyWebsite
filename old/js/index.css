@@ -1,0 +1,54 @@
+body {
+  color: red;
+  background-color: darkred;
+  text-align: center;
+  font-size: 24pt;
+  font-family: Arial;
+}
+h1 {
+	font-size: 48pt;
+	font-family: Arial;
+	font-weight: bold;
+}
+.button1 {
+	font-size: 28pt;
+	font-family: Arial;
+	font-weight: bold;
+}
+#TheForm {
+    margin-left: 396px;
+}
+#submitColor {
+    margin-left: 48px;
+    margin-top: 5px;
+}
+a {
+  text-decoration: none;
+  color: red;
+  text-align: center;
+  font-size: 24pt;
+  font-family: Arial;
+}
+a.clicker:hover {
+  text-decoration: underline;
+  color: red;
+  text-align: center;
+  font-size: 24pt;
+  font-family: Arial;
+  font-weight: bold;
+}
+a.hov:hover {
+  text-decoration: underline;
+  color: red;
+  text-align: center;
+  font-size: 24pt;
+  font-family: Arial;
+}
+#copyright {
+  font-size: 8pt;
+  font-family: Arial;
+}
+#build {
+  font-size: 6pt;
+  font-family: Arial;
+}

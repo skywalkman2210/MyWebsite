@@ -1,0 +1,26 @@
+body {
+  background: black;
+  color: rgb(241, 69, 116);
+  text-align: center;
+}
+
+#mainParagraph {
+}
+
+.posterContainer {
+  border: 1px solid;
+  padding: 10px;
+  text-align: center;
+}
+
+.contentContainer {
+  border: 1px solid;
+  padding: 10px;
+  text-align: center;
+}
+
+.post {
+  border: 1px solid;
+  text-align: center;
+  margin-left: 38em;
+}
